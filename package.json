@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000005",
-	"version": "1.0.202003191639",
+	"version": "1.0.202003200908",
 	"description": "初始化网络参数",
 	"scripts": {
 		"test": "tsc -w",
