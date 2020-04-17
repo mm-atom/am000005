@@ -39,7 +39,7 @@
 	],
 	"license": "MIT",
 	"dependencies": {
-		"@mmstudio/am000002": "1.1.202003261648"
+		"@mmstudio/am000002": "1.1.202004170846"
 	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "latest",
